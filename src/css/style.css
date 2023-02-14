@@ -123,8 +123,7 @@ body {
     align-items: center;
     height: 100vh;
     border-radius: 5px;
-    gap: 15px
-    ;
+    gap: 15px;
 }
 
 .modal .fechar-modal {
